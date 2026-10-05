@@ -1,0 +1,5 @@
+print("Hello, World!")
+print(10//3)
+print(17%3)
+print(4**2)
+print(200 + (200 - 100) * 0.1)
